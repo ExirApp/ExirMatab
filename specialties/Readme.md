@@ -11,5 +11,6 @@
 | زنان و زایمان | ![زنان و زایمان](https://exirmatab.com/wp-content/uploads/2024/04/SMS.png) | [زنان و زایمان](./obstetrics-and-gynecology/Readme.md) |
 | قلب و عروق | ![قلب و عروق](https://exirmatab.com/wp-content/uploads/2024/04/echo.png) | [قلب و عروق](./cardiology/Readme.md) |
 | چشم‌پزشکی | ![چشم‌پزشکی](https://exirmatab.com/wp-content/uploads/2024/06/Ophtalmologist2.png) | [چشم‌پزشکی](./ophthalmology/Readme.md) |
+| دندانپزشکی |  | [دندانپزشکی](./dentistry/Readme.md) |
 
 برای هر تخصص، ماژول‌های اختصاصی متناسب با نیاز همان حوزه طراحی شده است. جزئیات هر تخصص را در صفحات مربوطه مطالعه کنید.

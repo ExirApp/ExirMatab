@@ -15,7 +15,7 @@
 
 | ماژول | مستندات |
 |-------|---------|
-| منحنی رشد | [امکانات و قابلیت‌ها](../../features-and-capabilities/Readme.md) |
+| منحنی رشد | [ماژول منحنی رشد](../../modules/growth-chart/Readme.md) |
 | منحنی دور سر | [ماژول منحنی دور سر](../../modules/head-circumference-curve/Readme.md) |
 | قلم نوری | [ماژول قلم نوری](../../modules/light-pen/Readme.md) |
 | مدارک | [ماژول مدارک](../../modules/documents/Readme.md) |
